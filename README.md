@@ -1,2 +1,2 @@
 # gluetun-qbit-jackett
-GlueTun VPN + qBitTorrent + Jackett = docker compose yml
+GlueTun VPN + qBitTorrent (vuetorrent WebUI) + Jackett = docker compose yml
